@@ -323,7 +323,8 @@ retained_roster = {
     # GT
     'shubman gill', 'sai sudharsan', 'jos buttler', 'rashid khan', 'kagiso rabada',
     'mohammed siraj', 'prasidh krishna', 'washington sundar', 'rahul tewatia', 'sai kishore',
-    'jason holder', 'arshad khan', 'gurnoor brar', 'harshal patel'
+    'jason holder', 'arshad khan', 'gurnoor brar', 'harshal patel', 'glenn phillips',
+    'gerald coetzee', 'nishant sindhu', 'manav suthar', 'anuj rawat'
 }
 
 def is_player_retained(name):
