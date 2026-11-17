@@ -1,0 +1,7 @@
+warning_id,severity,description
+W01,RESOLVED,16 matches in matches.csv lacked ball-by-ball records; verified as abandoned without a ball bowled
+W02,RESOLVED,Penalty extras (5 runs) in match 16753 reconciled perfectly with official innings total
+W03,RESOLVED,Varun Aaron announced Ranji Trophy red-ball retirement only (Feb 2024); retained in eligible pool
+W04,RESOLVED,Shortened matches revised overs are in balls; scaled legal balls remaining and dynamic par accordingly
+W05,RESOLVED,Inverted bowling pressure model replaced with cricket-grounded challenge model
+W06,RESOLVED,Replaced hardcoded bootstrap and robustness values with 100% empirical calculations

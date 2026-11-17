@@ -1,0 +1,49 @@
+team,team_short,player_name,role,retention_price_cr,category,status
+Chennai Super Kings,CSK,Ruturaj Gaikwad,Batter,18.0,Capped,Retained Core
+Chennai Super Kings,CSK,Ravindra Jadeja,All-rounder,18.0,Capped,Retained Core
+Chennai Super Kings,CSK,Matheesha Pathirana,Bowler,13.0,Capped Overseas,Retained Core
+Chennai Super Kings,CSK,Shivam Dube,All-rounder,12.0,Capped,Retained Core
+Chennai Super Kings,CSK,MS Dhoni,WK Batter,4.0,Uncapped,Retained Core
+Mumbai Indians,MI,Jasprit Bumrah,Bowler,18.0,Capped,Retained Core
+Mumbai Indians,MI,Suryakumar Yadav,Batter,16.35,Capped,Retained Core
+Mumbai Indians,MI,Rohit Sharma,Batter,16.3,Capped,Retained Core
+Mumbai Indians,MI,Tilak Varma,Batter,8.0,Capped,Retained Core
+Mumbai Indians,MI,Arshdeep Singh,Bowler,18.0,Capped (Trade),Acquired Core
+Kolkata Knight Riders,KKR,Rinku Singh,Batter,13.0,Capped,Retained Core
+Kolkata Knight Riders,KKR,Varun Chakravarthy,Bowler,12.0,Capped,Retained Core
+Kolkata Knight Riders,KKR,Sunil Narine,All-rounder,12.0,Capped Overseas,Retained Core
+Kolkata Knight Riders,KKR,Andre Russell,All-rounder,12.0,Capped Overseas,Retained Core
+Kolkata Knight Riders,KKR,Harshit Rana,Bowler,4.0,Uncapped,Retained Core
+Kolkata Knight Riders,KKR,Ramandeep Singh,All-rounder,4.0,Uncapped,Retained Core
+Sunrisers Hyderabad,SRH,Heinrich Klaasen,WK Batter,23.0,Capped Overseas,Retained Core
+Sunrisers Hyderabad,SRH,Pat Cummins,Bowler,18.0,Capped Overseas,Retained Core
+Sunrisers Hyderabad,SRH,Abhishek Sharma,All-rounder,14.0,Capped,Retained Core
+Sunrisers Hyderabad,SRH,Travis Head,Batter,14.0,Capped Overseas,Retained Core
+Sunrisers Hyderabad,SRH,Nitish Kumar Reddy,All-rounder,6.0,Capped,Retained Core
+Rajasthan Royals,RR,Sanju Samson,WK Batter,18.0,Capped,Retained Core
+Rajasthan Royals,RR,Yashasvi Jaiswal,Batter,18.0,Capped,Retained Core
+Rajasthan Royals,RR,Riyan Parag,All-rounder,14.0,Capped,Retained Core
+Rajasthan Royals,RR,Dhruv Jurel,WK Batter,14.0,Capped,Retained Core
+Rajasthan Royals,RR,Shimron Hetmyer,Batter,11.0,Capped Overseas,Retained Core
+Rajasthan Royals,RR,Sandeep Sharma,Bowler,4.0,Uncapped,Retained Core
+Royal Challengers Bengaluru,RCB,Virat Kohli,Batter,21.0,Capped,Retained Core
+Royal Challengers Bengaluru,RCB,Rajat Patidar,Batter,11.0,Capped,Retained Core
+Royal Challengers Bengaluru,RCB,Yash Dayal,Bowler,5.0,Uncapped,Retained Core
+Delhi Capitals,DC,Axar Patel,All-rounder,16.5,Capped,Retained Core
+Delhi Capitals,DC,Rishabh Pant,WK Batter,20.0,Capped (Trade/Reacquired),Acquired Core
+Delhi Capitals,DC,Tristan Stubbs,WK Batter,10.0,Capped Overseas,Retained Core
+Delhi Capitals,DC,Abishek Porel,WK Batter,4.0,Uncapped,Retained Core
+Lucknow Super Giants,LSG,Nicholas Pooran,WK Batter,21.0,Capped Overseas,Retained Core
+Lucknow Super Giants,LSG,Kuldeep Yadav,Bowler,13.25,Capped (Trade),Acquired Core
+Lucknow Super Giants,LSG,Ravi Bishnoi,Bowler,11.0,Capped,Retained Core
+Lucknow Super Giants,LSG,Mayank Yadav,Bowler,11.0,Capped,Retained Core
+Lucknow Super Giants,LSG,Mohsin Khan,Bowler,4.0,Uncapped,Retained Core
+Lucknow Super Giants,LSG,Ayush Badoni,Batter,4.0,Uncapped,Retained Core
+Gujarat Titans,GT,Rashid Khan,Bowler,18.0,Capped Overseas,Retained Core
+Gujarat Titans,GT,Shubman Gill,Batter,16.5,Capped,Retained Core
+Gujarat Titans,GT,Sai Sudharsan,Batter,8.5,Capped,Retained Core
+Gujarat Titans,GT,Rahul Tewatia,All-rounder,4.0,Uncapped,Retained Core
+Gujarat Titans,GT,Shahrukh Khan,All-rounder,4.0,Uncapped,Retained Core
+Punjab Kings,PBKS,Hardik Pandya,All-rounder,18.0,Capped (Trade),Acquired Core
+Punjab Kings,PBKS,Shashank Singh,Batter,5.5,Uncapped,Retained Core
+Punjab Kings,PBKS,Prabhsimran Singh,WK Batter,4.0,Uncapped,Retained Core

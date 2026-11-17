@@ -1,0 +1,4 @@
+issue_id,dataset_name,column_name,issue_description,records_affected,severity,treatment_applied,justification
+DQ-01,ball_by_ball,extras1_runs,Column represents categorical code for extras_type rather than runs,200999,CRITICAL,Decoded extras via extras_type string and extras_2_runs,Adding extras1_runs directly corrupts scores with category codes
+DQ-02,matches,match_id,16 matches in matches.csv have 0 ball-by-ball delivery records,16,HIGH,"Verified result as Match Abandoned; accounted for in match stats, excluded from delivery stats",No balls were bowled; prevents division by zero in player metrics
+DQ-03,ball_by_ball,dismissal_type,"RunOut, Retired Out, Obstructing Field attributed in is_wicket but not bowler credited",609,HIGH,"Filtered bowler wickets to Bowled, Caught, LBW, Stump, Hit Wicket",Cricket scoring laws dictate runouts and retired outs are not credited to bowlers

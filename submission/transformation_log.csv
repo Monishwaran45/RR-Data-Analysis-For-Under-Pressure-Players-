@@ -1,0 +1,11 @@
+step,name,description
+T01,File Globbing & Discovery,Auto-discovered raw CSVs matching filename patterns with or without (1) suffixes
+T02,Penalty Extras Handling,"Match 16753 ball 6.4 extras_type == Penalty mapped to +5 runs, restoring 100% innings reconciliation"
+T03,Revised Overs Mapping,Shortened matches mapped from first/second_inn_revised_overs as legal balls remaining
+T04,Striker Dismissal Flag,Striker-specific dismissals isolated via is_wicket & (dismissed_player_id == striker_id)
+T05,Dot Ball Disambiguation,Batter dot = (runs == 0 & non-wide); Bowler dot = (bowler_runs == 0 & legal ball)
+T06,Dynamic Par Scoring,Empirical 1st innings par score calculated by competition and scaled to match length
+T07,Independent Bowling PI,"Challenge-based bowling model incorporating phase, RRR tension, and progression (Over 1 PI ~37, not 96)"
+T08,Empirical Bayes Shrinkage,Shrunk strike rates (k=80) and economies (k=60) toward empirical population priors
+T09,Match-Clustered Bootstrap,500 resampling iterations across match clusters to generate empirical 95% CIs
+T10,Cross-Format Concordance,Calculated actual IPL vs T20I rank correlation (r=0.603) across 57 qualified players

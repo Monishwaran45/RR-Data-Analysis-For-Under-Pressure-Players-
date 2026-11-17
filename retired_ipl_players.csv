@@ -1,0 +1,146 @@
+Player,Country,Role
+Sachin Tendulkar,India,Batter
+Rahul Dravid,India,Batter
+Sourav Ganguly,India,Batter
+VVS Laxman,India,Batter
+Virender Sehwag,India,Batter
+Gautam Gambhir,India,Batter
+Suresh Raina,India,Batter
+Shikhar Dhawan,India,Batter
+Murali Vijay,India,Batter
+Subramaniam Badrinath,India,Batter
+Manoj Tiwary,India,Batter
+Saurabh Tiwary,India,Batter
+Mohammad Kaif,India,Batter
+Paul Valthaty,India,Batter
+Dinesh Karthik,India,Wicketkeeper Batter
+Parthiv Patel,India,Wicketkeeper Batter
+Naman Ojha,India,Wicketkeeper Batter
+Robin Uthappa,India,Wicketkeeper Batter
+Manvinder Bisla,India,Wicketkeeper Batter
+Wriddhiman Saha,India,Wicketkeeper Batter
+Yuvraj Singh,India,All-Rounder
+Irfan Pathan,India,All-Rounder
+Yusuf Pathan,India,All-Rounder
+Stuart Binny,India,All-Rounder
+Abhishek Nayar,India,All-Rounder
+Rajat Bhatia,India,All-Rounder
+Joginder Sharma,India,All-Rounder
+Pawan Negi,India,All-Rounder
+Mithun Manhas,India,All-Rounder
+Iqbal Abdulla,India,All-Rounder
+Bipul Sharma,India,All-Rounder
+Ankit Sharma,India,All-Rounder
+Kedar Jadhav,India,All-Rounder
+Ambati Rayudu,India,All-Rounder
+Zaheer Khan,India,Bowler
+Ashish Nehra,India,Bowler
+Munaf Patel,India,Bowler
+RP Singh,India,Bowler
+Praveen Kumar,India,Bowler
+Lakshmipathy Balaji,India,Bowler
+Sreesanth,India,Bowler
+Manpreet Gony,India,Bowler
+Vinay Kumar,India,Bowler
+Ashok Dinda,India,Bowler
+Sudeep Tyagi,India,Bowler
+Pankaj Singh,India,Bowler
+Anil Kumble,India,Bowler
+Harbhajan Singh,India,Bowler
+Pragyan Ojha,India,Bowler
+Ramesh Powar,India,Bowler
+Shadab Jakati,India,Bowler
+Rahul Sharma,India,Bowler
+Adam Gilchrist,Australia,Wicketkeeper Batter
+Matthew Hayden,Australia,Batter
+Ricky Ponting,Australia,Batter
+Michael Hussey,Australia,Batter
+Shaun Marsh,Australia,Batter
+Brad Hodge,Australia,Batter
+Simon Katich,Australia,Batter
+Brad Haddin,Australia,Wicketkeeper Batter
+George Bailey,Australia,Batter
+Cameron White,Australia,Batter
+Michael Clarke,Australia,Batter
+Aaron Finch,Australia,Batter
+Callum Ferguson,Australia,Batter
+Luke Ronchi,Australia,Wicketkeeper Batter
+Shane Watson,Australia,All-Rounder
+Andrew Symonds,Australia,All-Rounder
+David Hussey,Australia,All-Rounder
+Shane Warne,Australia,Bowler
+Brett Lee,Australia,Bowler
+Mitchell Johnson,Australia,Bowler
+Dirk Nannes,Australia,Bowler
+Shaun Tait,Australia,Bowler
+Doug Bollinger,Australia,Bowler
+Ben Hilfenhaus,Australia,Bowler
+Ryan Harris,Australia,Bowler
+Brad Hogg,Australia,Bowler
+Nathan Hauritz,Australia,Bowler
+AB de Villiers,South Africa,Wicketkeeper Batter
+Graeme Smith,South Africa,Batter
+Hashim Amla,South Africa,Batter
+Herschelle Gibbs,South Africa,Batter
+Neil McKenzie,South Africa,Batter
+Henry Davids,South Africa,Batter
+Jacques Kallis,South Africa,All-Rounder
+JP Duminy,South Africa,All-Rounder
+Albie Morkel,South Africa,All-Rounder
+Johan Botha,South Africa,All-Rounder
+Dale Steyn,South Africa,Bowler
+Morne Morkel,South Africa,Bowler
+Makhaya Ntini,South Africa,Bowler
+Imran Tahir,South Africa,Bowler
+Charl Langeveldt,South Africa,Bowler
+Andre Nel,South Africa,Bowler
+Chris Gayle,West Indies,Batter
+Lendl Simmons,West Indies,Batter
+Shivnarine Chanderpaul,West Indies,Batter
+Ramnaresh Sarwan,West Indies,Batter
+Kieron Pollard,West Indies,All-Rounder
+Dwayne Bravo,West Indies,All-Rounder
+Andre Russell,West Indies,All-Rounder
+Dwayne Smith,West Indies,All-Rounder
+Marlon Samuels,West Indies,All-Rounder
+Darren Sammy,West Indies,All-Rounder
+Samuel Badree,West Indies,Bowler
+Fidel Edwards,West Indies,Bowler
+Ravi Rampaul,West Indies,Bowler
+Jerome Taylor,West Indies,Bowler
+Kumar Sangakkara,Sri Lanka,Wicketkeeper Batter
+Mahela Jayawardene,Sri Lanka,Batter
+Tillakaratne Dilshan,Sri Lanka,Batter
+Sanath Jayasuriya,Sri Lanka,Batter
+Upul Tharanga,Sri Lanka,Batter
+Chamara Kapugedera,Sri Lanka,Batter
+Thisara Perera,Sri Lanka,All-Rounder
+Lasith Malinga,Sri Lanka,Bowler
+Muttiah Muralitharan,Sri Lanka,Bowler
+Chaminda Vaas,Sri Lanka,Bowler
+Ajantha Mendis,Sri Lanka,Bowler
+Nuwan Kulasekara,Sri Lanka,Bowler
+Brendon McCullum,New Zealand,Wicketkeeper Batter
+Ross Taylor,New Zealand,Batter
+Stephen Fleming,New Zealand,Batter
+Lou Vincent,New Zealand,Batter
+Nathan Astle,New Zealand,Batter
+Scott Styris,New Zealand,All-Rounder
+Jacob Oram,New Zealand,All-Rounder
+Jesse Ryder,New Zealand,All-Rounder
+Corey Anderson,New Zealand,All-Rounder
+Nathan McCullum,New Zealand,All-Rounder
+Daniel Vettori,New Zealand,Bowler
+Kyle Mills,New Zealand,Bowler
+Kevin Pietersen,England,Batter
+Eoin Morgan,England,Batter
+Owais Shah,England,Batter
+Alex Hales,England,Batter
+Jonathan Trott,England,Batter
+Andrew Flintoff,England,All-Rounder
+Ravi Bopara,England,All-Rounder
+Paul Collingwood,England,All-Rounder
+Luke Wright,England,All-Rounder
+Dimitri Mascarenhas,England,All-Rounder
+Graeme Swann,England,Bowler
+Steve Finn,England,Bowler

@@ -1,0 +1,18 @@
+phase,phase_name,status,records_processed,notes
+1,Direct Ingestion & Inspection,SUCCESS,200999,All 6 raw CSVs loaded with zero truncation
+2,Data Cleaning & Abandoned Resolution,SUCCESS,200999,16 abandoned matches audited; Penalty extras (5 runs) handled
+3,Player Eligibility & Exclusions,SUCCESS,1217,68 Pak + 10 IPL Retirees excluded; Varun Aaron retained; 1139 eligible
+4,Competition & Season EDA,SUCCESS,834,Audited 834 matches across 5 competitions and 5 seasons
+5,Innings & Team Performance,SUCCESS,1636,1636 completed innings reconciled with 100% score integrity
+6,Batting Baseline Analysis,SUCCESS,1139,Baseline batting parameters mapped for eligible cohort
+7,Bowling Baseline Analysis,SUCCESS,1139,Baseline bowling parameters mapped for eligible cohort
+8,Match Phases Analysis,SUCCESS,200999,"Powerplay, Middle, Death phase metrics segmented"
+9,Pre-Delivery Match-State Reconstruction,SUCCESS,200999,Revised overs and dynamic par scoring fully accounted for
+10,Pressure-Index Formulation,SUCCESS,200999,Batting & independent bowling pressure models calibrated
+11,Batter Pressure Performance,SUCCESS,817,Striker-specific dismissals and batter dot balls calculated
+12,Bowler Pressure Performance,SUCCESS,601,Independent bowling model metrics and bowler dot balls calculated
+13,Bootstrap & Reliability Tests,SUCCESS,500,500 match-clustered bootstrap iterations computed actual 95% CIs
+14,Rating Model & Player Rankings,SUCCESS,285,Empirical Bayes shrinkage applied; 147 batters & 138 bowlers ranked
+15,Rajasthan Royals Strategic Targets,SUCCESS,20,Strategic targets aligned 100% with verified model ratings
+16,Robustness & Sensitivity Tests,SUCCESS,147,"Threshold, weights, sample cutoff, LOSO, and cross-format validated"
+17,Deliverables & Verification Audit,SUCCESS,11,11 CSV deliverables and master outputs package verified
