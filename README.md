@@ -8,7 +8,7 @@
 
 ---
 
-## 📽️ Documentary Overview: The Mission & The War Room Imperative
+##  Documentary Overview: The Mission & The War Room Imperative
 
 Welcome to the definitive war-room dossier for **Rajasthan Royals (RR) — SupeRR Selector Season 2 (Round 1)**. 
 
