@@ -1,0 +1,23 @@
+# Ignore data, scripts, and heavy source files not needed for the web dashboard
+Dataset/
+Fresh_Analysis/
+submission/
+charts/
+
+*.py
+*.pyc
+*.ipynb
+*.zip
+*.pptx
+*.pdf
+*.txt
+*.csv
+*.parquet
+*.pkl
+*.bak
+
+# Git & OS metadata
+.git
+.gitignore
+.DS_Store
+Thumbs.db
