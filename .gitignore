@@ -5,6 +5,8 @@ __pycache__/
 .ipynb_checkpoints/
 *.tmp
 *.tmp.png
+mpl_cache/
+Fresh_Analysis/mpl_cache/
 
 # System & OS
 Thumbs.db
