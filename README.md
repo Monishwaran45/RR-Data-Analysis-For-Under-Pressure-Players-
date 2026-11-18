@@ -60,7 +60,7 @@ Using exclusive proprietary ball-by-ball domestic and international tracking dat
 
 ---
 
-## 🎬 Act I: The Franchise Crisis & Trade Deadline Shockwaves (17 Nov 2026)
+## Act I: The Franchise Crisis & Trade Deadline Shockwaves (17 Nov 2026)
 
 On **17 November 2026**, the IPL governing council concluded the official trade window and retention declarations. For the Rajasthan Royals war room, the declaration was seismic:
 
@@ -86,7 +86,7 @@ On **17 November 2026**, the IPL governing council concluded the official trade 
 
 ---
 
-## 🎬 Act II: The Forensic Audit — Purging the 86 Ghosts
+##  Act II: The Forensic Audit — Purging the 86 Ghosts
 
 To prevent franchise war-room capital from being wasted on ineligible assets, the raw dataset (**200,999 deliveries**) underwent four strict governance purges:
 
@@ -164,7 +164,7 @@ $$	ext{Econ}_{	ext{shrunk}} = rac{B_{HP} \cdot 	ext{Econ}_{HP} + C \cdot \mu_{E
 
 ---
 
-## 🎬 Act IV: Methodological Validation — The Global Benchmark Titans
+##  Act IV: Methodological Validation — The Global Benchmark Titans
 
 Before isolating the available auction pool, the model was executed across the entire unpartitioned dataset. If the algorithm is mathematically sound, it must independently identify the recognized world leaders in T20 clutch performance.
 
@@ -192,7 +192,7 @@ Before isolating the available auction pool, the model was executed across the e
 
 ---
 
-## 🎬 Act V: The Discovery — Top 10 Available Auction Batters
+##  Act V: The Discovery — Top 10 Available Auction Batters
 
 Filtering out all 10 franchise retentions yields Rajasthan Royals' **definitive 10-player batting auction target board**:
 
@@ -211,7 +211,7 @@ Filtering out all 10 franchise retentions yields Rajasthan Royals' **definitive 
 
 ---
 
-## 🎬 Act VI: The Arsenal — Top 10 Available Auction Bowlers
+##  Act VI: The Arsenal — Top 10 Available Auction Bowlers
 
 Filtering out all retained bowlers isolates the **definitive 10-player bowling auction target board**:
 
@@ -230,7 +230,7 @@ Filtering out all retained bowlers isolates the **definitive 10-player bowling a
 
 ---
 
-## 🎬 Act VII: Temporal Forensics — Two-Year Recency & Form Curves (2025–26 vs 2022–24)
+##  Act VII: Temporal Forensics — Two-Year Recency & Form Curves (2025–26 vs 2022–24)
 
 Cricket performance is non-stationary. Assessing whether a player is peaking or declining prevents paying premium auction prices for past reputation.
 
@@ -256,7 +256,7 @@ Cricket performance is non-stationary. Assessing whether a player is peaking or 
 
 ---
 
-## 🎬 Act VIII: The Strategic Blueprint — Rajasthan Royals Matchday XI & 20-Over Plan
+## Act VIII: The Strategic Blueprint — Rajasthan Royals Matchday XI & 20-Over Plan
 
 With our targeted acquisitions, Rajasthan Royals field an elite, pressure-proof starting lineup compliant with the 4-overseas player rule:
 
@@ -314,7 +314,7 @@ With our targeted acquisitions, Rajasthan Royals field an elite, pressure-proof 
 
 ---
 
-## 🎬 Act IX: The War Room Ledger — Spending the ₹27.05 Crore Purse
+##  Act IX: The War Room Ledger — Spending the ₹27.05 Crore Purse
 
 The war room budget plan allocates **100.0% of Rajasthan Royals' ₹27.05 Crore remaining purse** across 10 prioritized targets with hard walk-away ceilings:
 
@@ -339,7 +339,7 @@ The war room budget plan allocates **100.0% of Rajasthan Royals' ₹27.05 Crore 
 
 ---
 
-## 🎬 Act X: Visual Proofs Gallery & Interactive Dashboard Suite
+##  Act X: Visual Proofs Gallery & Interactive Dashboard Suite
 
 ### 1. High-Resolution 300 DPI Visual Artifacts
 All analytical figures were generated from the clean 167,872-delivery dataset and stored in [`final_pressure_charts_white_bg/`](file:///c:/Users/Asus-2025/Downloads/RR/final_pressure_charts_white_bg/):
@@ -376,7 +376,7 @@ The single-file interactive web application provides the full executive experien
 
 ---
 
-## 🎬 Act XI: Unstop Round 1 Compliance Matrix & Stability Proofs
+##  Act XI: Unstop Round 1 Compliance Matrix & Stability Proofs
 
 ```
 ┌──────────────────────────────────────┬───────────────────────────────────────────────────────────────────┬────────┐
@@ -402,8 +402,5 @@ ho = 0.91$ across sample thresholds $N \in [30, 100]$.
 
 ---
 
-## 👥 Repository Authors & Rajasthan Royals War Room Analytics Team
-* **Competition:** Unstop SupeRR Selector Season 2 — Rajasthan Royals IPL 2027 Auction Strategy
-* **Round:** Round 1 (Identify the Most Reliable Players Under Pressure)
-* **Date:** November 2026
-* **Deliverable Formats:** Master Written Submission (`.md`), Interactive Executive Dashboard (`.html`), High-Res Chart Gallery (`.png`), and Master Documentary (`README.md`).
+## Repository Authors 
+* **Monishwaran k**
