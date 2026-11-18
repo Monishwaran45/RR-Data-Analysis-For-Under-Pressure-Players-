@@ -1,4 +1,4 @@
-# 🏆 SupeRR Selector Season 2: Inside the Rajasthan Royals War Room
+# SupeRR Selector Season 2: Inside the Rajasthan Royals War Room
 ### *A Documentary-Style Forensic Investigation into High-Pressure Cricket Performance (2022–2026)*
 
 [![IPL 2027 Strategy](https://img.shields.io/badge/IPL_2027-Rajasthan_Royals-C81D4E?style=for-the-badge&logo=cricket)](https://www.rajasthanroyals.com)
@@ -138,10 +138,17 @@ Traditional scouting models rely on arbitrary over filtering, defining "pressure
 Every single delivery is scored continuously on a $[0, 100]$ scale based on live match dynamics:
 
 #### 1. Second-Innings Chase Crunch ($PI_{	ext{chase}}$):
-$$PI_{	ext{chase}} = 40 	imes \left( rac{RRR - CRR}{\max(1.0, CRR)} ight) + 35 	imes \left( rac{	ext{Wickets Lost}}{10} ight) + 25 	imes \left( rac{120 - 	ext{Balls Bowled}}{120} ight) 	imes \left( rac{	ext{Target}}{175} ight)$$
+$$PI_{	ext{chase}} = 40 	imes \left( rac{RRR - CRR}{\max(1.0, CRR)} 
+ight) + 35 	imes \left( rac{	ext{Wickets Lost}}{10} 
+ight) + 25 	imes \left( rac{120 - 	ext{Balls Bowled}}{120} 
+ight) 	imes \left( rac{	ext{Target}}{175} 
+ight)$$
 
 #### 2. First-Innings Death & Par Defense ($PI_{	ext{defend}}$):
-$$PI_{	ext{defend}} = 45 	imes \left( rac{	ext{Projected Score} - 	ext{Par Score}}{	ext{Par Score}} ight) + 35 	imes \left( rac{	ext{Over Number}}{20} ight) + 20 	imes \left( 1 - rac{	ext{Wickets Lost}}{10} ight)$$
+$$PI_{	ext{defend}} = 45 	imes \left( rac{	ext{Projected Score} - 	ext{Par Score}}{	ext{Par Score}} 
+ight) + 35 	imes \left( rac{	ext{Over Number}}{20} 
+ight) + 20 	imes \left( 1 - rac{	ext{Wickets Lost}}{10} 
+ight)$$
 
 * **The High-Pressure Cutoff:** Deliveries with **$PI \ge 65.0$** are tagged as High-Pressure ($N = 41,364$, representing **24.64%** of the entire 167,872 delivery pool).
 
@@ -389,7 +396,8 @@ The single-file interactive web application provides the full executive experien
 ```
 
 ### Statistical Stability Audit:
-* **Spearman Rank Correlation:** $ho = 0.91$ across sample thresholds $N \in [30, 100]$.
+* **Spearman Rank Correlation:** $
+ho = 0.91$ across sample thresholds $N \in [30, 100]$.
 * **Weight Sensitivity Range:** Ranks 1–3 for batters (Omarzai, Nabi, Raza) and bowlers (Theekshana, Avesh, Hasaranga) remained 100% stable across rate weight shifts from 25% to 65%.
 
 ---
