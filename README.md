@@ -44,7 +44,7 @@ Using exclusive proprietary ball-by-ball domestic and international tracking dat
 
 ---
 
-## 📑 Documentary Table of Contents
+##  Documentary Table of Contents
 
 1. [Act I: The Franchise Crisis & Trade Deadline Shockwaves (17 Nov 2026)](#-act-i-the-franchise-crisis--trade-deadline-shockwaves-17-nov-2026)
 2. [Act II: The Forensic Audit — Purging the 86 Ghosts](#-act-ii-the-forensic-audit--purging-the-86-ghosts)
