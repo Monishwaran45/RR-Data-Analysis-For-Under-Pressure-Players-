@@ -116,7 +116,7 @@ To prevent franchise war-room capital from being wasted on ineligible assets, th
 
 ---
 
-## 🎬 Act III: The Mathematics of Pressure — Why Over Filters Lie
+## Act III: The Mathematics of Pressure — Why Over Filters Lie
 
 ### The Fallacy of Arbitrary Over Slices (Overs 16–20)
 Traditional scouting models rely on arbitrary over filtering, defining "pressure" merely as overs 16–20. In modern T20 cricket, this assumption collapses:
